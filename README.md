@@ -16,7 +16,7 @@ Slides folder contains slides that have been used for presentation.
 
 2. Explore the descriptive statistics of Movie Ratings for different Certification categories
 
-3. Is there any correlations between features and which ones ?
+3.  Which features are correlated?
  
 4. Is there a correlation between the MetaScore and the Movie Rating? 
 
